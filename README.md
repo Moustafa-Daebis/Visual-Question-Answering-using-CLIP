@@ -19,7 +19,7 @@ The CLIP model is used to encode and decode the images and text before concatina
 
 
 ## Features
-Given an image and a question the model will erturn a suitable answer.
+Given an image and a question the model will return a suitable answer.
 
 ## Getting Started
 
