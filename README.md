@@ -29,11 +29,7 @@ A suitable editor (perferably kaggle)
 
 
 ### Installing
-import the notebook to a suitable editor
-
-
-### Executing program
-Turn on GPU to run it
+Import the notebook to a suitable editor
 
 
 ## Author
