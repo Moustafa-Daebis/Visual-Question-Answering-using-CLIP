@@ -25,15 +25,15 @@ Given an image and a question the model will return a suitable answer.
 ## Getting Started
 
 ### Prerequisites 
-
+A suitable editor (perferably kaggle)
 
 
 ### Installing
-
+import the notebook to a suitable editor
 
 
 ### Executing program
-
+Turn on GPU to run it
 
 
 ## Author
