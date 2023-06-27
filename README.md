@@ -38,5 +38,7 @@ A linear classifier build using neurel networks that performs text and image enc
 
 ## Acknowledgments
 *[Less Is More: Linear Layers on CLIP Features as Powerful VizWiz Model](https://arxiv.org/pdf/2206.05281v1.pdf)
+
 *[CLIP Model](https://github.com/openai/CLIP)
+
 *[CLIP Model paper](https://arxiv.org/pdf/2103.00020.pdf)
