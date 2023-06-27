@@ -7,7 +7,6 @@ A linear classifier build using neurel networks that performs text and image enc
 * [Features](#features)
 * [Prerequisites](#prerequisites)
 * [Installing](#installing)
-* [Executing program](#executing-program)
 * [Author](#author)
 * [Acknowledgments](#acknowledgments)
 
