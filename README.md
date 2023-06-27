@@ -24,7 +24,7 @@ Given an image and a question the model will return a suitable answer.
 ## Getting Started
 
 ### Prerequisites 
-A suitable editor (perferably kaggle)
+A suitable editor (preferably kaggle)
 
 
 ### Installing
