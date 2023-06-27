@@ -37,5 +37,3 @@
 * [Moustafa Daebis](https://github.com/Moustafa-Daebis)
 
 ## Acknowledgments
-* https://opensource.com/article/18/8/what-how-makefile
-* https://www.makeareadme.com/
