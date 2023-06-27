@@ -13,7 +13,7 @@ A linear classifier build using neurel networks that performs text and image enc
 
 ## Description
 The left handside of the  following architecture is implemented using python
-!( ![CLIP architecture](https://github.com/Moustafa-Daebis/Visual-Question-Answering/assets/100102025/d28de275-c2f2-4e46-b04e-97a1c248a5ba)
+ ![CLIP architecture](https://github.com/Moustafa-Daebis/Visual-Question-Answering/assets/100102025/d28de275-c2f2-4e46-b04e-97a1c248a5ba)
 
 
 
